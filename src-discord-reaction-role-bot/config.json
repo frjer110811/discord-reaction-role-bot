@@ -2,7 +2,7 @@
   {
     "messageId": "1261936302358794314",
     "channelId": "1261934445628493845",
-    "removeReaction": true,
+    "removeReaction": false,
     "policy": "any",
     "emojiRoleMap": {
       "🤖": ["1261937817764888577"]
